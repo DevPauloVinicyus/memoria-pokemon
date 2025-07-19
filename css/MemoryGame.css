@@ -41,7 +41,7 @@ body {
 }
 
 #memory--app-container {
-  background: url('images/arena.svg') no-repeat center center;
+  background: url('/images/arena.svg') no-repeat center center;
   background-size: cover;
   width: 100vw;
   height: 100vh;
