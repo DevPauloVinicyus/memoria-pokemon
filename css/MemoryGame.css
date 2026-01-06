@@ -336,6 +336,21 @@ a {
   background-image: url(../images/pokemons/zubat.jpg);
 }
 
+
+
+/* ==============================
+   IMAGEM RESPONSIVA – CONSTRUÇÃO
+   ============================== */
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+
+
+
+
 /** Matching Cards **/
 /**
  * If you wish to have custom matching images, you can do so
